@@ -35,5 +35,4 @@ In this exercise I tryed to use more componentes of the React.js, to fix this in
 
 - LinkedIn - [Cidmar Oliveira](https://www.linkedin.com/in/cidmar-oliveira-2b8166231/)
 - GitHub - [ciiDmo](https://github.com/ciiDmo)
-- Frontend Mentor - [@ciiDmo](https://www.frontendmentor.io/profile/ciiDmo)
 - Twitter - [@ciiDmo](https://twitter.com/ciiDmo)
