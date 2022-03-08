@@ -4,7 +4,7 @@
     background-color: hsl(0, 0%, 100%);
     display: flex;
     max-width: 290px;
-    max-height: 500px;
+    max-height: auto;
     border-radius: 25px;
     text-align: center;
     flex-direction: column;
@@ -34,4 +34,21 @@
     font-size: 15px;
     padding: 10px;
     margin-top: auto;
+}
+
+@media (max-width: 350px) {
+    .card {
+        max-width: 200px;
+        padding: 12px;
+    }
+
+    .card h1 {
+        font-size: 0.9em;
+        padding: 7px;
+    }
+
+    .card p {
+        font-size: 10px;
+        padding: 7px;
+    }
 }
